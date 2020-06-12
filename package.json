@@ -30,7 +30,7 @@
     "gulp-uglify": "^2.0.0",
     "gulp-util": "^3.0.6",
     "gulp-wait": "0.0.2",
-    "highcharts": "^5.0.4",
+    "highcharts": "^8.1.1",
     "instantclick2": "^1.1.0",
     "ng-annotate-loader": "^0.1.0",
     "nib": "^1.1.0",
